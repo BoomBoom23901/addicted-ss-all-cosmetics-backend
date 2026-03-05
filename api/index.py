@@ -9,7 +9,7 @@ app = Flask(__name__)
 #  CONFIGURATION
 # ────────────────────────────────────────────────
 
-TITLE_ID = "2276F"
+TITLE_ID = "F5123"
 PLAYFAB_BASE = f"https://{TITLE_ID}.playfabapi.com"
 
 # Replace with your real webhook if you want logging
